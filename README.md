@@ -1,6 +1,4 @@
-# Metodi Efficienti per il Trattamento di Sequenze Genomiche
-
-### Un'Analisi di Kallisto, Minimap e Miniasm
+# Metodi Efficienti per il Trattamento di Sequenze Genomiche: Un'Analisi di Kallisto, Minimap e Miniasm
 
 ## 📌 Descrizione
 Questa repository contiene il materiale relativo alla tesi "Metodi Efficienti per il Trattamento di Sequenze Genomiche: Un'Analisi di Kallisto, Minimap e Miniasm". Lo studio analizza tre strumenti bioinformatici utilizzati per il trattamento di sequenze genomiche:
