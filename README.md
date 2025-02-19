@@ -13,7 +13,7 @@ Questa repository contiene il materiale relativo alla tesi "Metodi Efficienti pe
 - **Miniasm** ha prodotto un assemblaggio preliminare molto veloce, ma ha richiesto strumenti aggiuntivi per la correzione degli errori.
 
 ## 🚀 Dataset
-È possibile riprodurre i test effettuati utilizzando i file contenuti nella cartella `dataset/`.
+È possibile riprodurre i test effettuati utilizzando i file contenuti nella cartella `dataset/`
 
 ## 📜 Link ai tool esaminati
 - [Kallisto](https://github.com/pachterlab/kallisto)
