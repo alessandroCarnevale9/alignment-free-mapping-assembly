@@ -7,19 +7,27 @@ Questa repository contiene il materiale relativo alla tesi "Metodi Efficienti pe
 - **Minimap**: un mapper di letture lunghe basato su minimizer per identificare regioni omologhe nel genoma.
 - **Miniasm**: un assembler de novo ottimizzato per la velocità, che evita la fase di correzione degli errori.
 
-## 📊 Risultati
-- **Kallisto** ha dimostrato un'alta efficienza computazionale rispetto ai metodi tradizionali di quantificazione dell'espressione genica.
-- **Minimap** ha permesso un rapido allineamento delle letture lunghe, con un consumo di memoria ridotto rispetto agli approcci tradizionali.
-- **Miniasm** ha prodotto un assemblaggio preliminare molto veloce, ma ha richiesto strumenti aggiuntivi per la correzione degli errori.
-
-## 🚀 Dataset
-È possibile riprodurre i test effettuati utilizzando i file contenuti nella cartella `dataset/`
-
-## 📜 Link ai tool esaminati e alla piattaforma Galaxy
+## 🔗 Link ai tool esaminati e alla piattaforma Galaxy
 - [Kallisto](https://github.com/pachterlab/kallisto)
 - [Minimap](https://github.com/lh3/minimap2)
 - [Miniasm](https://github.com/lh3/miniasm)
 - [Galaxy](https://usegalaxy.org/)
+
+## 🔬 Dataset
+È possibile riprodurre i test effettuati scaricando i file ai seguenti link:
+- **Kallisto**:
+  - [short reads Escherichia coli](https://www.ebi.ac.uk/ena/browser/view/ERR2686027)
+  - [trascritti di Escherichia coli](https://ftp.ensemblgenomes.ebi.ac.uk/pub/bacteria/release-60/fasta/bacteria_0_collection/escherichia_coli_str_k_12_substr_mg1655_gca_000005845/cdna/)
+- **Minimap**:
+  - [long reads Escherichia coli](https://ftp.sra.ebi.ac.uk/vol1/fastq/SRR320/083/SRR32026183/)
+  - [genoma di riferimento di Escherichia coli](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000005845.2/)
+- **Miniasm**:
+  - [long reads PacBio](http://www.cbcb.umd.edu/software/PBcR/data/selfSampleData.tar.gz) 
+
+## 📊 Risultati
+- **Kallisto** ha dimostrato un'alta efficienza computazionale rispetto ai metodi tradizionali di quantificazione dell'espressione genica.
+- **Minimap** ha permesso un rapido allineamento delle letture lunghe, con un consumo di memoria ridotto rispetto agli approcci tradizionali.
+- **Miniasm** ha prodotto un assemblaggio preliminare molto veloce, ma ha richiesto strumenti aggiuntivi per la correzione degli errori.
 
 Autore: **Alessandro Carnevale**  
 Università degli Studi di Salerno  
