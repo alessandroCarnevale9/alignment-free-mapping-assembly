@@ -3,7 +3,7 @@
 ## 📌 Descrizione
 Questa repository contiene il materiale relativo alla tesi "Metodi Efficienti per il Trattamento di Sequenze Genomiche: Un'Analisi di Kallisto, Minimap e Miniasm". Lo studio analizza tre strumenti bioinformatici utilizzati per il trattamento di sequenze genomiche:
 
-- **Kallisto**: un metodo alignment-free per la quantificazione dell'espressione genica da dati RNA-seq.
+- **Kallisto**: un tool alignment-free per la quantificazione dell'espressione genica da dati RNA-seq.
 - **Minimap**: un mapper di letture lunghe basato su minimizer per identificare regioni omologhe nel genoma.
 - **Miniasm**: un assembler de novo ottimizzato per la velocità, che evita la fase di correzione degli errori.
 
