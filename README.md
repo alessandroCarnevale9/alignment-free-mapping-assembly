@@ -27,7 +27,7 @@ Questa repository contiene il materiale relativo alla tesi "Metodi Efficienti pe
 ## 📊 Risultati
 - **Kallisto** dimostra un'alta efficienza computazionale rispetto ai metodi tradizionali di quantificazione dell'espressione genica.
 - **Minimap** permette un rapido allineamento delle letture lunghe, con un consumo di memoria ridotto rispetto agli approcci tradizionali.
-- **Miniasm** ha prodotto velocemente un assemblaggio preliminare, ma richiede strumenti aggiuntivi per la correzione degli errori.
+- **Miniasm** produce velocemente un assemblaggio preliminare, ma richiede strumenti aggiuntivi per la correzione degli errori.
 
 Autore: **Alessandro Carnevale**  
 Università degli Studi di Salerno  
