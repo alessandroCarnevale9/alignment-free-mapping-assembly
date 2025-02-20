@@ -25,9 +25,9 @@ Questa repository contiene il materiale relativo alla tesi "Metodi Efficienti pe
   - [long reads PacBio](http://www.cbcb.umd.edu/software/PBcR/data/selfSampleData.tar.gz) 
 
 ## 📊 Risultati
-- **Kallisto** ha dimostrato un'alta efficienza computazionale rispetto ai metodi tradizionali di quantificazione dell'espressione genica.
-- **Minimap** ha permesso un rapido allineamento delle letture lunghe, con un consumo di memoria ridotto rispetto agli approcci tradizionali.
-- **Miniasm** ha prodotto un assemblaggio preliminare molto veloce, ma ha richiesto strumenti aggiuntivi per la correzione degli errori.
+- **Kallisto** dimostra un'alta efficienza computazionale rispetto ai metodi tradizionali di quantificazione dell'espressione genica.
+- **Minimap** permette un rapido allineamento delle letture lunghe, con un consumo di memoria ridotto rispetto agli approcci tradizionali.
+- **Miniasm** ha prodotto velocemente un assemblaggio preliminare, ma richiede strumenti aggiuntivi per la correzione degli errori.
 
 Autore: **Alessandro Carnevale**  
 Università degli Studi di Salerno  
