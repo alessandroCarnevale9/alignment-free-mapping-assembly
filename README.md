@@ -15,10 +15,11 @@ Questa repository contiene il materiale relativo alla tesi "Metodi Efficienti pe
 ## 🚀 Dataset
 È possibile riprodurre i test effettuati utilizzando i file contenuti nella cartella `dataset/`
 
-## 📜 Link ai tool esaminati
+## 📜 Link ai tool esaminati e alla piattaforma Galaxy
 - [Kallisto](https://github.com/pachterlab/kallisto)
 - [Minimap](https://github.com/lh3/minimap2)
 - [Miniasm](https://github.com/lh3/miniasm)
+- [Galaxy](https://usegalaxy.org/)
 
 Autore: **Alessandro Carnevale**  
 Università degli Studi di Salerno  
